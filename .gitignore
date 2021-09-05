@@ -111,3 +111,5 @@ dist
 
 components/editor/media/media.js
 components/editor/media/
+
+.vercel
